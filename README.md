@@ -61,17 +61,17 @@ kotlin
 
 Team Members
 
-    Vishnu
-    [Member 2 Name]
-    [Member 3 Name]
-    [Member 4 Name]
+    Vishnu Nandan
+    Nithin N
+    Nimmy Shaji
+    Swathy K S
 
 To Do
 
-    Integrate a real image captioning model.
-    Improve UI for better accessibility.
-    Add support for additional languages.
-    Implement offline mode and error handling improvements.
+    > Integrate a real image captioning model.
+    > Improve UI for better accessibility.
+    > Add support for additional languages.
+    > Implement offline mode and error handling improvements.
 
 Demo Screenshots
 
