@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BlindAssist"
+rootProject.name = "SenseVision"
 include(":app")
  
