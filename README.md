@@ -75,10 +75,6 @@ To Do
     > Add support for additional languages.
     > Implement offline mode and error handling improvements.
 
-Demo Screenshots
-
-Coming Soon...
-Inspiration
 
 This project was created with the goal of enhancing the independence and accessibility of visually impaired individuals by leveraging affordable mobile technology and open-source AI.
 License
