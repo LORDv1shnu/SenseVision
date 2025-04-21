@@ -151,8 +151,7 @@ class MainActivity : AppCompatActivity() {
                 val stream = ByteArrayOutputStream()
                 bitmap.compress(Bitmap.CompressFormat.JPEG, 100, stream)
                 val byteArray = stream.toByteArray()
-
-                val url = URL("http://192.168.1.72:5000/upload")
+                val url = URL("http://192.168.43.50:5000/upload")
                 val connection = url.openConnection() as HttpURLConnection
                 connection.requestMethod = "POST"
                 connection.doOutput = true
